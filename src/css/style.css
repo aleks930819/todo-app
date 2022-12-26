@@ -212,4 +212,8 @@ input {
     .task-text {
         margin-bottom: 1.7rem;
     }
+
+    #edit-form {
+         width: 80%;
+    }
 }
