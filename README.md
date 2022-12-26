@@ -1,5 +1,5 @@
 # ToDo - app
-Simple todo app with vanila javascript, html, css
+Simple todo app with vanilla javascript, html, css
 
 ![1](https://user-images.githubusercontent.com/107752460/209541911-2d5a47c9-fa61-4f93-a3d4-ecb8a4c3748f.png)
 
