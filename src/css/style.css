@@ -204,4 +204,7 @@ input {
     #add-input {
         width: 20rem;
     }
+    .task-text {
+        margin-bottom: 1.7rem;
+    }
 }
