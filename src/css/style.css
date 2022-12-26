@@ -98,7 +98,7 @@ h6 {
 
 input {
     font-size: 1.2rem;
-    border: 2px solid #1F1F1F;
+    border: 1px solid #1F1F1F;
     background-color: #F1FFFA;
     padding: .5rem 1rem;
     outline: none;
@@ -122,6 +122,10 @@ input {
     left: 50%;
     text-align: center;
     transform: translate(-50%, -50%);
+    background-color: var(--color-white);
+    padding: 5rem;
+    border-radius: var(--border-radius);
+
 }
 
 #edit-form input {
@@ -129,6 +133,7 @@ input {
     border-radius: var(--border-radius);
     padding: 1rem;
     margin-bottom: 2rem;
+
 }
 
 
