@@ -7,7 +7,7 @@ Simple todo app with vanila javascript, html, css
 ![2](https://user-images.githubusercontent.com/107752460/209541964-af01ef36-0cdb-406d-ac79-013e7c55f1e9.png)
 
 
-![3](https://user-images.githubusercontent.com/107752460/209542073-d3501e07-fc47-44eb-83ac-a14fc4cba881.png)
+![test-2](https://user-images.githubusercontent.com/107752460/209553263-f8efd570-6d47-4dd6-9f88-696b261f57c4.png)
 
 
 ![4](https://user-images.githubusercontent.com/107752460/209542126-b469d34d-cf8b-472f-8fd5-2e9d4b7e4ffd.png)
