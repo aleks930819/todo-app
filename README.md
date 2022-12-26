@@ -13,4 +13,4 @@ Simple todo app with vanila javascript, html, css
 ![4](https://user-images.githubusercontent.com/107752460/209542126-b469d34d-cf8b-472f-8fd5-2e9d4b7e4ffd.png)
 
 
-Link https://luminous-khapse-c43666.netlify.app/
+Link: https://luminous-khapse-c43666.netlify.app/
